@@ -142,6 +142,6 @@ span{
     }
 
     .apresentacao__conteudo{
-        width: auto; /* ou 100% (muito utilizada na versao mobile)*/
+        width: auto;
     }
 }
